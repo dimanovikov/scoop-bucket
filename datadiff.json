@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "description": "Semantic diff for structured data files (JSON, YAML, CSV, TOML, XML)",
+    "homepage": "https://github.com/cloudroad-io/datadiff",
+    "license": "MIT OR Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cloudroad-io/datadiff/releases/download/v0.2.0/datadiff-v0.2.0-x86_64-pc-windows-msvc.zip",
+            "hash": "903066526dcc08f05372eb562c7abfa36227cf789438c8073a967b4385bf6ac7"
+        }
+    },
+    "bin": "datadiff.exe",
+    "checkver": {
+        "github": "https://github.com/cloudroad-io/datadiff"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/cloudroad-io/datadiff/releases/download/v$version/datadiff-v$version-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}
