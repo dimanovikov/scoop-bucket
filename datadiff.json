@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.1",
     "description": "Semantic diff for structured data files (JSON, YAML, CSV, TOML, XML)",
     "homepage": "https://github.com/dimanovikov/datadiff",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.2.0/datadiff-v0.2.0-x86_64-pc-windows-msvc.zip",
-            "hash": "903066526dcc08f05372eb562c7abfa36227cf789438c8073a967b4385bf6ac7"
+            "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.3.1/datadiff-v0.3.1-x86_64-pc-windows-msvc.zip",
+            "hash": "ee7d3ec21fd4d52aee2f97b632c30edef5ec32ee9dc7de96b1e14124d65fa9e6"
         }
     },
     "bin": "datadiff.exe",
