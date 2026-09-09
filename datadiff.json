@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.4.0/datadiff-v0.4.0-x86_64-pc-windows-msvc.zip",
-            "hash": "ebd444b04bb24afb3c379454b4ff9aec26881b7970bcca92132214efa63c7bbd"
+            "hash": "ab92d9001fb7deb956ceb78c6edacf4a3d26709c152e61696a1bea8aab444fb2"
         }
     },
     "bin": "datadiff.exe",
